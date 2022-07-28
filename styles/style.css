@@ -1,0 +1,12 @@
+.carousel-caption {
+    bottom: initial;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+
+}
+
+.carousel-item img {
+    filter: brightness(50%);
+}
